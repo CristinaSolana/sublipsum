@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+	<![CDATA[<ul>
+		<li>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</li>
+		<li>A small river named Duden flows by their place and supplies it with the necessary regelialia.</li>
+		<li>It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</li>
+	</ul>]]>
+	</content>
+	<tabTrigger>ul</tabTrigger>
+	<description>sublipsum: &lt;ul&gt; Unordered List</description>
+</snippet>

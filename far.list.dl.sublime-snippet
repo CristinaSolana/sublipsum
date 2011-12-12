@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+		<![CDATA[<dl>
+			<dt>Term: Far Far Away</dt>
+			<dd>She packed her seven versalia, put her initial into the belt and made herself on the way.
+		</dd>
+			<dt>Term: Lorem Ipsum</dt>
+			<dd>On her way she met a copy.</dd>
+		</dl>]]>
+	</content>
+	<tabTrigger>dl</tabTrigger>
+	<description>sublipsum: &lt;dl&gt; Description List</description>
+</snippet>

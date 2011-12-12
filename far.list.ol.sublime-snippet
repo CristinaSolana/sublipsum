@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[<ol>
+			<li>Alternate</li>
+			<li>Lorem Ipsum</li>
+			<li>Far Far Away</li>
+		</ol>]]>
+</content>
+	<tabTrigger>ol</tabTrigger>
+	<description>sublipsum: &lt;ol&gt; Ordered List</description>
+</snippet>

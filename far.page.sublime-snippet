@@ -1,0 +1,24 @@
+<snippet>
+	<content>
+		<![CDATA[<h1>On her way she met a copy.</h1>
+
+			<p>But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again.</p>
+
+			<h2>Heading 2</h2>
+			
+			<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline.</p>
+
+			<blockquote>
+				When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+			</blockquote>
+
+			<h3>Heading 3</h3>
+
+			<ul>
+				<li>She packed her seven versalia, put her initial into the belt and made herself on the way.</li>
+				<li>And if she hasn’t been rewritten, then they are still using her.</li>
+			</ul>]]>
+	</content>
+	<tabTrigger>page</tabTrigger>
+	<description>sublipsum: Page Content</description>
+</snippet>

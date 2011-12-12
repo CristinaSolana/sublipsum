@@ -1,0 +1,7 @@
+<snippet>
+	<content>
+		<![CDATA[<img src="http://placehold.it/300/ddd/222&text=Placeholder Image" alt="Placeholder Image">]]>
+	</content>
+	<tabTrigger>img</tabTrigger>
+	<description>sublipsum: &lt;img&gt; Image</description>
+</snippet>

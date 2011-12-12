@@ -1,0 +1,66 @@
+<snippet>
+	<content>
+		<![CDATA[<form action="#" method="post">
+			<fieldset>
+				<legend>Text Inputs</legend>
+				<label for="name">Text Input:
+					<input type="text" name="name" id="name" value="" tabindex="1" />
+				</label>
+				<label for="name">Email Input:
+					<input type="email" name="name" id="name" value="" tabindex="1" />
+				</label>
+				<label for="name">Telephone Number Input:
+					<input type="tel" name="name" id="name" value="" tabindex="1" />
+				</label>
+				<label for="name">URL Input:
+					<input type="url" name="name" id="name" value="" tabindex="1" />
+				</label>
+			</fieldset>
+
+			<fieldset>
+				<legend>Select List</legend>
+				<label for="select-choice">Select Dropdown Choice:
+					<select name="select-choice" id="select-choice">
+						<option value="Choice 1">Choice 1</option>
+						<option value="Choice 2">Choice 2</option>
+						<option value="Choice 3">Choice 3</option>
+					</select>
+				</label>
+			</fieldset>
+
+			<fieldset>
+				<legend>Radio Buttons</legend>
+				<label for="radio-choice-1">Choice 1
+					<input type="radio" name="radio-choice" id="radio-choice-1" value="choice-1" tabindex="1" />
+				</label>
+
+				<label for="radio-choice-2">Choice 2
+					<input type="radio" name="radio-choice" id="radio-choice-2" value="choice-2" tabindex="2" />
+				</label>
+			</fieldset>
+			
+			<fieldset>
+				<legend>Checkboxes</legend>
+				<label for="checkbox-1">Checkbox 1:
+					<input type="checkbox" name="checkbox" id="checkbox-1" tabindex="1" />
+				</label>
+				<label for="checkbox-2">Checkbox 2:
+					<input type="checkbox" name="checkbox" id="checkbox-2" tabindex="2" />
+				</label>
+			</fieldset>
+
+			<fieldset>
+				<legend>Textarea</legend>
+				<label for="textarea">Textarea:
+					<textarea cols="40" rows="8" name="textarea" id="textarea"></textarea>
+				</label>
+			</fieldset>
+
+			<fieldset>
+				<button type="button" value="Button" />
+			</fieldset>
+		</form>]]>
+	</content>
+	<tabTrigger>form</tabTrigger>
+	<description>sublipsum: &lt;form&gt; Form + Form Elements</description>
+</snippet>
